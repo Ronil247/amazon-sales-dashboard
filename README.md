@@ -23,7 +23,7 @@ This project analyzes Amazon India sales data using Excel, SQL, and Power BI.
 - Revenue by State
 - Payment Method Analysis
 - Top Products Analysis
-- Interactive Filters![Uploading dashboard_amazon_bi.png…]()
+- Interactive Filters!
 
 
 ## Files
