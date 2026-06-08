@@ -1,0 +1,104 @@
+Revenue by Product Category,
+Row Labels,Sum of Total_Sales
+Beauty,227489624.7
+Books,224999226.6
+Clothing,222409335.8
+Electronics,226564923.3
+Home & Kitchen,216698693.1
+Grand Total,1118161804
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Revenue by State,
+Row Labels,Sum of Total_Sales_INR
+Andhra Pradesh,36237577.25
+Arunachal Pradesh,39348777.94
+Assam,38739460.17
+Bihar,41669240.44
+Chhattisgarh,42857545.27
+Goa,40488243.03
+Gujarat,36226185.91
+Haryana,39171925.41
+Himachal Pradesh,38182171.87
+Jharkhand,39606674.07
+Karnataka,38444302.71
+Kerala,39279218.92
+Madhya Pradesh,39961650.61
+Maharashtra,38675511.58
+Manipur,39934040.52
+Meghalaya,42773152.96
+Mizoram,38641789.63
+Nagaland,38670484.69
+Odisha,40924381.38
+Punjab,39640897.69
+Rajasthan,42906175.08
+Sikkim,43113469.51
+Tamil Nadu,41967968.99
+Telangana,39077114.06
+Tripura,41103376.81
+Uttar Pradesh,41690917.07
+Uttarakhand,37633617.48
+West Bengal,41195932.45
+Grand Total,1118161804
+,
+Revenue Trend by Month,
+Row Labels,Sum of Total_Sales_INR
+Jan,92051785.03
+Feb,84995760.62
+Mar,93064349.39
+Apr,91388990.14
+May,97195848.48
+Jun,89730685.72
+Jul,95176904.42
+Aug,97576563.09
+Sep,91225555.74
+Oct,93478344.05
+Nov,94809186.29
+Dec,97467830.53
+Grand Total,1118161804
+,
+,
+,
+,
+Payment Method Analysis,
+Row Labels,Sum of Total_Sales_INR
+Cash on Delivery,286511414.6
+Credit Card,286889235.5
+Debit Card,273036622.5
+UPI,271724530.9
+Grand Total,1118161804
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Top 10 products by sales,
+Row Labels,Sum of Total_Sales_INR
+Air Fryer,45919707.91
+Children's Book,48145664.52
+Hair Dryer,47428844.81
+Headphones,48044405.75
+Jeans,45232819.47
+Laptop,46173868.15
+Lipstick,48159020.15
+Perfume,46284732.62
+Sneakers,46057295.93
+Tablet,46170022.15
+Grand Total,467616381.5
